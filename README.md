@@ -1,4 +1,5 @@
 # Awesome JavaScript Interviews
+https://khaled-hamam.gitbook.io/design-patterns-explained/
 
 ## Checkout my [Deep Learning | Machine Learning YouTube Channel](https://www.youtube.com/channel/UC0_a8SNpTFkmVv5SLMs1CIA/featured)
 
